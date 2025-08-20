@@ -1,7 +1,7 @@
 # Hi, I'm Saranya M  
 
 > PG Student in **Data Science** @ Christ University, Bangalore  
-> Exploring **Machine Learning • Time Series Analysis. Deep Learning • NLP • Cloud Servies . Image analytics**  
+> Exploring **Machine Learning • Time Series Analysis. Deep Learning  • Cloud Servies . Image analytics**  
 > Building **end-to-end ML projects and Analyzing Data and finding Insights** with real-world impact  
 > Currently learning **Model Deployment & Cloud ML**  
 
