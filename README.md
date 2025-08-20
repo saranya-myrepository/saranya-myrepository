@@ -3,11 +3,11 @@
 > PG Student in **Data Science** @ Christ University, Bangalore  
 > Exploring **Machine Learning • Time Series Analysis. Deep Learning  • Cloud Servies . Image analytics**  
 > Building **end-to-end ML projects and Analyzing Data and finding Insights** with real-world impact  
-> Currently learning **Model Deployment & Cloud ML**  
+> Currently learning **Model Deployment &  ML and DL tasks**  
 
 ---
 
-## Tech Toolbox  
+## Tools 
 
 Languages: Python, SQL, HTML  
 Libraries & ML: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, XGBoost  
@@ -16,7 +16,7 @@ Tools & Platforms: Git, Jupyter, VS Code, Streamlit, AWS
 
 ---
 
-## Featured Projects  
+## Projects  
 
 - **Medicinal Leaf Classifier**  
   Full-stack ML application for identifying medicinal plants from leaf images.  
@@ -41,12 +41,4 @@ Tools & Platforms: Git, Jupyter, VS Code, Streamlit, AWS
 
 ---
 
-## GitHub Highlights  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranya-myrepository&theme=tokyonight" alt="GitHub Streak Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=saranya-myrepository&show_icons=true&theme=tokyonight&hide=issues" height="180"/>
-</p>
----
-
-*"Turning complex data into actionable intelligence — with a balance of rigor and creativity."*  
+**"Turning complex data into actionable intelligence — with a balance of rigor and creativity."** 
