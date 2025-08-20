@@ -36,7 +36,7 @@ Tools & Platforms: Git, Jupyter, VS Code, Streamlit, AWS
 ## Research & Learning  
 
 - Exploring **Ideas and finding insights** and fine-tuning approaches for performing complex tasks.  
-- Experimenting with **Anakyzing data and finding insights** (Docker, CI/CD, model versioning).  
+- Experimenting with **Anakyzing data and finding insights** 
 - Interested in **AWS** tasks.  
 
 ---
